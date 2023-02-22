@@ -4,19 +4,18 @@
   <meta charset="utf-8">
   
   
-  <title>truthy-falsy | truthy-falsy</title>
+  <title>truthy-falsy</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="description" content="Truthy and Falsy values in JavascriptIn this blog, we will learn about truthy and falsy values in javascript. Before learning about truthy and falsy values we need to know about the type coercion. It">
 <meta property="og:type" content="article">
 <meta property="og:title" content="truthy-falsy">
-<meta property="og:url" content="http://truthy-falsy-blog.com/2023/02/22/truthy-falsy/index.html">
+<meta property="og:url" content="http://truthy-falsy-blog.com/truthy-falsy">
 <meta property="og:site_name" content="truthy-falsy">
 <meta property="og:description" content="Truthy and Falsy values in JavascriptIn this blog, we will learn about truthy and falsy values in javascript. Before learning about truthy and falsy values we need to know about the type coercion. It">
 <meta property="og:locale" content="en_US">
-<meta property="article:published_time" content="2023-02-22T08:28:51.000Z">
-<meta property="article:modified_time" content="2023-02-22T08:41:18.669Z">
+<meta property="article:published_time" content="2023-02-22T08:28:51.999Z">
+<meta property="article:modified_time" content="2023-02-22T09:44:38.972Z">
 <meta property="article:author" content="sunil">
-<meta property="article:tag" content="blog">
 <meta name="twitter:card" content="summary">
   
     <link rel="alternate" href="/atom.xml" title="truthy-falsy" type="application/atom+xml">
@@ -76,23 +75,13 @@
       <div class="outer">
         <section id="main"><article id="post-truthy-falsy" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
   <div class="article-meta">
-    <a href="/2023/02/22/truthy-falsy/" class="article-date">
-  <time class="dt-published" datetime="2023-02-22T08:28:51.000Z" itemprop="datePublished">2023-02-22</time>
+    <a href="/truthy-falsy" class="article-date">
+  <time class="dt-published" datetime="2023-02-22T08:28:51.999Z" itemprop="datePublished">2023-02-22</time>
 </a>
     
   </div>
   <div class="article-inner">
     
-    
-      <header class="article-header">
-        
-  
-    <h1 class="p-name article-title" itemprop="headline name">
-      truthy-falsy
-    </h1>
-  
-
-      </header>
     
     <div class="e-content article-entry" itemprop="articleBody">
       
@@ -119,26 +108,14 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://truthy-falsy-blog.com/2023/02/22/truthy-falsy/" data-id="cleffgf9600011tjx6moc397k" data-title="truthy-falsy" class="article-share-link">Share</a>
+      <a data-url="http://truthy-falsy-blog.com/truthy-falsy" data-id="clefhomfb000039jx8yf39yy5" data-title="" class="article-share-link">Share</a>
       
       
       
-  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/blog/" rel="tag">blog</a></li></ul>
-
     </footer>
   </div>
   
     
-<nav id="article-nav">
-  
-  
-    <a href="/2023/02/22/hello-world/" id="article-nav-older" class="article-nav-link-wrap">
-      <strong class="article-nav-caption">Older</strong>
-      <div class="article-nav-title">Hello World</div>
-    </a>
-  
-</nav>
-
   
 </article>
 
@@ -151,23 +128,9 @@
 
   
     
-  <div class="widget-wrap">
-    <h3 class="widget-title">Tags</h3>
-    <div class="widget">
-      <ul class="tag-list" itemprop="keywords"><li class="tag-list-item"><a class="tag-list-link" href="/tags/blog/" rel="tag">blog</a></li></ul>
-    </div>
-  </div>
-
 
   
     
-  <div class="widget-wrap">
-    <h3 class="widget-title">Tag Cloud</h3>
-    <div class="widget tagcloud">
-      <a href="/tags/blog/" style="font-size: 10px;">blog</a>
-    </div>
-  </div>
-
   
     
   <div class="widget-wrap">
@@ -186,11 +149,7 @@
       <ul>
         
           <li>
-            <a href="/2023/02/22/truthy-falsy/">truthy-falsy</a>
-          </li>
-        
-          <li>
-            <a href="/2023/02/22/hello-world/">Hello World</a>
+            <a href="/truthy-falsy">(no title)</a>
           </li>
         
       </ul>
