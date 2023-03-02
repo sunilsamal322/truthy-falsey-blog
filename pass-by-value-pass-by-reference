@@ -4,13 +4,13 @@
   <meta charset="utf-8">
   
   
-  <title></title>
+  <title>Truthy and falsey values</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="description" content="Pass by value and pass by referenceIn this post, we will learn about pass-by-value and pass-by-reference in JavaScript. Pass by valueIn pass-by-value, the function is called by passing the value of th">
 <meta property="og:type" content="article">
-<meta property="og:title">
+<meta property="og:title" content="Truthy and falsey values">
 <meta property="og:url" content="http://truthy-falsy-blog.com/pass-by-value-pass-by-reference">
-<meta property="og:site_name">
+<meta property="og:site_name" content="Truthy and falsey values">
 <meta property="og:description" content="Pass by value and pass by referenceIn this post, we will learn about pass-by-value and pass-by-reference in JavaScript. Pass by valueIn pass-by-value, the function is called by passing the value of th">
 <meta property="og:locale" content="en_US">
 <meta property="article:published_time" content="2023-03-02T08:36:27.452Z">
@@ -18,7 +18,7 @@
 <meta property="article:author" content="sunil">
 <meta name="twitter:card" content="summary">
   
-    <link rel="alternate" href="/atom.xml" title="" type="application/atom+xml">
+    <link rel="alternate" href="/atom.xml" title="Truthy and falsey values" type="application/atom+xml">
   
   
     <link rel="shortcut icon" href="/favicon.png">
@@ -46,7 +46,7 @@
   <div id="header-outer" class="outer">
     <div id="header-title" class="inner">
       <h1 id="logo-wrap">
-        <a href="/" id="logo"></a>
+        <a href="/" id="logo">Truthy and falsey values</a>
       </h1>
       
     </div>
